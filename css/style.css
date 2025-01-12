@@ -56,9 +56,15 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 .header-contacts-link:hover {
   color: #404bbf;
 }
+
+.header-contacts-link:focus {
+  color: #404bbf;
+}
+
 .hero-title {
   color: #ffffff;
   font-size: 56px;
@@ -99,6 +105,7 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .portfolio-title {
@@ -108,6 +115,7 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .features-subtitle {
@@ -122,6 +130,7 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-subtitle {
@@ -129,6 +138,7 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .features-item-text {
